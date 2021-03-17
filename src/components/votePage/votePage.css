@@ -8,10 +8,19 @@
   margin-top: 0;
 }
 
-.president {
+.position {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-evenly;
   min-height: 30vh;
+}
+
+.post {
+  display: flex;
+  font-style: italic;
+}
+
+img {
+  height: 200px;
 }
